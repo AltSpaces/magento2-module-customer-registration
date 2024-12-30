@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="atwix_customer_registration_support_notification" label="Customer registration notifier"
+              file="support_notification.html"
+              type="html"
+              module="Atwix_CustomerRegistration"
+              area="adminhtml"/>
+</config>
